@@ -1,0 +1,20 @@
+Metadata-Version: 2.2
+Name: textSummarizer
+Version: 0.0.0
+Summary: A small package to summarize the text
+Home-page: https://github.com/ISmokeData/text_summarizer
+Author: ISmokeData
+Author-email: vermadhanraj015@gmail.com
+Project-URL: Bug Tracker, hhtps://github.com/ISmokeData/text_summarizer/issues
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# Text Summarization
+
+**Work in Progress...**
