@@ -53,5 +53,7 @@ Weights & Biases was used to log training metrics and optimize model performance
 ## 🔗 Links  
 - **Model Weights**: [Hugging Face Model](https://huggingface.co/)   
 
+## Code Explanation 
+**[Notion](https://abstracted-dart-3f7.notion.site/Project-Text-Summarization-195182b94a91808f9034cf06c649083b)**
 ## 🤝 Contributing  
 Contributions are welcome! Feel free to open issues or submit pull requests.  
